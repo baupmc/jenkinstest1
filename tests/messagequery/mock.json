@@ -1,0 +1,52 @@
+{
+    "CoMIT_MessageQuery": [
+        {
+            "Id": "67a3ee3a-fa18-45a4-95db-34c517c9b6e2",
+            "UserId": "U1",
+            "Name": "Q1",
+            "QueryData": {
+                "name": "Q1.1"
+            }
+        },
+        {
+            "Id": "93364fcb-6f68-4197-98ae-a9ec99d8b33a",
+            "UserId": "U2",
+            "Name": "Q1",
+            "QueryData": {
+                "name": "Q2.1"
+            }
+        },
+        {
+            "Id": "a1048848-7006-44df-873e-d31ed7d97724",
+            "UserId": "U2",
+            "Name": "Q2",
+            "QueryData": {
+                "name": "Q2.2"
+            }
+        },
+        {
+            "Id": "1e4133b5-47de-4a29-9a44-d258adba8659",
+            "UserId": "U3",
+            "Name": "Q1",
+            "QueryData": {
+                "name": "Q3.1"
+            }
+        },
+        {
+            "Id": "961d89ed-2e6f-458e-aaa2-b579c6135064",
+            "UserId": "U3",
+            "Name": "Q2",
+            "QueryData": {
+                "name": "Q3.2"
+            }
+        },
+        {
+            "Id": "a78fa30f-1428-4d69-a119-ec75130946ba",
+            "UserId": "U3",
+            "Name": "Q3",
+            "QueryData": {
+                "name": "Q3.3"
+            }
+        }
+    ]
+}

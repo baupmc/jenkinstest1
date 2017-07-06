@@ -1,0 +1,212 @@
+{
+    "CoMIT_Group": [
+        {
+            "Id": "cf8ec8fa-1dba-4ec3-aaea-4949e71caa18",
+            "Name": "ADMIN1",
+            "IsSystemAdmin": true
+        },
+        {
+            "Id": "4cb5394e-a6d2-48f5-a5cd-fa6ef5b8ac28",
+            "Name": "NONE1",
+            "IsSystemAdmin": false
+        },
+        {
+            "Id": "185b2b41-ff20-4b39-8ac1-f0f2b03e3fac",
+            "Name": "SYSTEM1",
+            "IsSystemAdmin": false
+        },
+        {
+            "Id": "af5aa442-48df-4211-8217-ef984984023f",
+            "Name": "TAG1",
+            "IsSystemAdmin": false
+        },
+        {
+            "Id": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "Name": "BOTH1",
+            "IsSystemAdmin": false
+        }
+    ],
+    "PermissionType": [
+        {
+            "Id": "91cf9a6d-8140-49bf-9475-1a6159e472f0",
+            "Code": "T1",
+            "Name": "T1",
+            "SystemName": "comit",
+            "IsSystemPermission": "true"
+        },
+        {
+            "Id": "ec14d655-2aa8-4150-8f06-751eb35bb1e2",
+            "Code": "T2",
+            "Name": "T2",
+            "SystemName": "comit",
+            "IsSystemPermission": "true"
+        },
+        {
+            "Id": "278700fc-1428-4c2f-bb26-75052196d92d",
+            "Code": "T3",
+            "Name": "T3",
+            "SystemName": "comit",
+            "IsSystemPermission": "false"
+        },
+        {
+            "Id": "8e37ede6-ae26-4cea-8917-557550d71850",
+            "Code": "T4",
+            "Name": "T4",
+            "SystemName": "comit",
+            "IsSystemPermission": "false"
+        }
+    ],
+    "Permission": [
+        {
+            "Id": "cd43028d-bc91-45ad-8937-2c95a543ed51",
+            "PermissionTypeId": "91cf9a6d-8140-49bf-9475-1a6159e472f0",
+            "Value": "false"
+        },
+        {
+            "Id": "09b48cfd-0d9c-4615-a00a-289496a41954",
+            "PermissionTypeId": "ec14d655-2aa8-4150-8f06-751eb35bb1e2",
+            "Value": "true"
+        },
+        {
+            "Id": "edf127bd-9ab1-456a-92a2-9db0dfad725a",
+            "PermissionTypeId": "91cf9a6d-8140-49bf-9475-1a6159e472f0",
+            "Value": "true"
+        },
+        {
+            "Id": "59c6f9c9-b557-418a-81f7-9c62732c8bf7",
+            "PermissionTypeId": "ec14d655-2aa8-4150-8f06-751eb35bb1e2",
+            "Value": "false"
+        },
+        {
+            "Id": "553a29b6-f03a-4c1b-80d8-71198e5a19d0",
+            "PermissionTypeId": "278700fc-1428-4c2f-bb26-75052196d92d",
+            "Value": "true"
+        },
+        {
+            "Id": "b47a8221-fb4e-469c-b291-1933da464bbc",
+            "PermissionTypeId": "8e37ede6-ae26-4cea-8917-557550d71850",
+            "Value": "false"
+        },
+        {
+            "Id": "d386d7f9-9809-4e6e-92d8-10eaebee8979",
+            "PermissionTypeId": "278700fc-1428-4c2f-bb26-75052196d92d",
+            "Value": "false"
+        },
+        {
+            "Id": "ea2d14bd-4714-4158-b6fc-4187c2bba9b2",
+            "PermissionTypeId": "8e37ede6-ae26-4cea-8917-557550d71850",
+            "Value": "true"
+        },
+        {
+            "Id": "4afbf2bf-da84-44ec-ba4f-56a377f649ad",
+            "PermissionTypeId": "278700fc-1428-4c2f-bb26-75052196d92d",
+            "Value": "false"
+        },
+        {
+            "Id": "47c39634-8329-4dcf-956e-724e09de26d6",
+            "PermissionTypeId": "8e37ede6-ae26-4cea-8917-557550d71850",
+            "Value": "false"
+        },
+        {
+            "Id": "a5d818c3-1a09-4290-9410-84c502ddc960",
+            "PermissionTypeId": "278700fc-1428-4c2f-bb26-75052196d92d",
+            "Value": "true"
+        },
+        {
+            "Id": "b80d729b-662d-4fab-9921-6b994ca05f0e",
+            "PermissionTypeId": "8e37ede6-ae26-4cea-8917-557550d71850",
+            "Value": "false"
+        }
+    ],
+    "CoMIT_GroupTagPermission": [
+        {
+            "Id": "88e6583a-45b6-40ed-90bf-2fc12078286e",
+            "GroupId": "af5aa442-48df-4211-8217-ef984984023f",
+            "TagId": "5ef81650-8b5f-4987-b94c-9174288c09d5",
+            "PermissionId": "553a29b6-f03a-4c1b-80d8-71198e5a19d0"
+        },
+        {
+            "Id": "2ae09e50-2c69-4555-8a6e-a8f5cb0d2310",
+            "GroupId": "af5aa442-48df-4211-8217-ef984984023f",
+            "TagId": "5ef81650-8b5f-4987-b94c-9174288c09d5",
+            "PermissionId": "b47a8221-fb4e-469c-b291-1933da464bbc"
+        },
+        {
+            "Id": "5c29a9d0-22c0-4892-898f-ccea74b34d30",
+            "GroupId": "af5aa442-48df-4211-8217-ef984984023f",
+            "TagId": "e91da405-17e9-457e-91c0-dcb70ff104e5",
+            "PermissionId": "d386d7f9-9809-4e6e-92d8-10eaebee8979"
+        },
+        {
+            "Id": "af5f7bff-21fa-4c61-82e9-e0fd50f06a64",
+            "GroupId": "af5aa442-48df-4211-8217-ef984984023f",
+            "TagId": "e91da405-17e9-457e-91c0-dcb70ff104e5",
+            "PermissionId": "ea2d14bd-4714-4158-b6fc-4187c2bba9b2"
+        },
+        {
+            "Id": "30205394-14f1-4f81-b4f1-98d87c0186bb",
+            "GroupId": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "TagId": "5ef81650-8b5f-4987-b94c-9174288c09d5",
+            "PermissionId": "4afbf2bf-da84-44ec-ba4f-56a377f649ad"
+        },
+        {
+            "Id": "c15f2771-ba79-4782-bcbb-7fae78cf30f8",
+            "GroupId": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "TagId": "5ef81650-8b5f-4987-b94c-9174288c09d5",
+            "PermissionId": "47c39634-8329-4dcf-956e-724e09de26d6"
+        },
+        {
+            "Id": "57029c94-d1f8-4ea7-bfe0-1fc689f9cc9d",
+            "GroupId": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "TagId": "e91da405-17e9-457e-91c0-dcb70ff104e5",
+            "PermissionId": "a5d818c3-1a09-4290-9410-84c502ddc960"
+        },
+        {
+            "Id": "2a261614-50dc-4010-bd42-c6190852d1ab",
+            "GroupId": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "TagId": "e91da405-17e9-457e-91c0-dcb70ff104e5",
+            "PermissionId": "b80d729b-662d-4fab-9921-6b994ca05f0e"
+        }
+    ],
+    "CoMIT_GroupSystemPermission": [
+        {
+            "Id": "a671609c-a5ee-4592-8d7f-56329dea4995",
+            "GroupId": "185b2b41-ff20-4b39-8ac1-f0f2b03e3fac",
+            "PermissionId": "cd43028d-bc91-45ad-8937-2c95a543ed51"
+        },
+        {
+            "Id": "7380c406-1758-4207-ba77-e276c8ea36bf",
+            "GroupId": "185b2b41-ff20-4b39-8ac1-f0f2b03e3fac",
+            "PermissionId": "09b48cfd-0d9c-4615-a00a-289496a41954"
+        },
+        {
+            "Id": "91a8a626-4017-44b8-953a-6d9a4742f85d",
+            "GroupId": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "PermissionId": "edf127bd-9ab1-456a-92a2-9db0dfad725a"
+        },
+        {
+            "Id": "aee6671a-4b13-4d7f-b241-260eb72edc4f",
+            "GroupId": "ba313e78-0b7d-4b52-b3bf-a198d0d9ea9e",
+            "PermissionId": "59c6f9c9-b557-418a-81f7-9c62732c8bf7"
+        }
+    ],
+    "Tag": [
+        {
+            "Id": "5ef81650-8b5f-4987-b94c-9174288c09d5",
+            "Name": "Tag1",
+            "TagTypeId": "2d8cf2e2-ada6-4bca-a3e0-61f66c0e25de"
+        },
+        {
+            "Id": "e91da405-17e9-457e-91c0-dcb70ff104e5",
+            "Name": "Tag2",
+            "TagTypeId": "2d8cf2e2-ada6-4bca-a3e0-61f66c0e25de"
+        }
+    ],
+    "TagType": [
+        {
+            "Id": "2d8cf2e2-ada6-4bca-a3e0-61f66c0e25de",
+            "Name": "comit",
+            "SystemName": "comit"
+        }
+    ]
+}

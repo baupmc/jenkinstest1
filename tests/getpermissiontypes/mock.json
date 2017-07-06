@@ -1,0 +1,116 @@
+{
+    "PermissionType": [
+        {
+            "Id": "0e159d20-1bd4-4a7e-a605-3ccfefbe0fb5",
+            "Name": "Create",
+            "Code": "Create",
+            "SystemName": "Alpha",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "66bc2850-d95f-4f24-a827-a80f0051fc87",
+            "Name": "Read",
+            "Code": "Read",
+            "SystemName": "Alpha",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "b935e4f4-bb72-44e9-91e1-f0bcae628f95",
+            "Name": "Update",
+            "Code": "Update",
+            "SystemName": "Alpha",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "2938936b-ba12-4758-b0de-aa5bef1c6317",
+            "Name": "Delete",
+            "Code": "Delete",
+            "SystemName": "Alpha",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "ee427b5a-5259-4bba-9a83-7557d73588f4",
+            "Name": "Create",
+            "Code": "Create",
+            "SystemName": "Alpha",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "fcf85d37-7c61-4342-87f6-79912edd1319",
+            "Name": "Read",
+            "Code": "Read",
+            "SystemName": "Alpha",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "54c3dbc8-ea58-477b-9217-9168fc2caeff",
+            "Name": "Update",
+            "Code": "Update",
+            "SystemName": "Alpha",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "9496b9dd-8754-4951-91f5-14971acbeec1",
+            "Name": "Delete",
+            "Code": "Delete",
+            "SystemName": "Alpha",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "cd2aa379-fa82-4b34-8369-5e6c6fdddc87",
+            "Name": "Create",
+            "Code": "Create",
+            "SystemName": "Beta",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "564ce176-60b0-4813-bbae-c5a561fe9642",
+            "Name": "Read",
+            "Code": "Read",
+            "SystemName": "Beta",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "27b4e965-a834-4e40-bb36-f87083b3c95a",
+            "Name": "Update",
+            "Code": "Update",
+            "SystemName": "Beta",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "3dc31c4f-b9b7-4894-8131-8f8189eab52d",
+            "Name": "Delete",
+            "Code": "Delete",
+            "SystemName": "Beta",
+            "IsSystemPermission": false
+        },
+        {
+            "Id": "25668ab0-672f-4748-b85d-fdd85f91a8f8",
+            "Name": "Create",
+            "Code": "Create",
+            "SystemName": "Old Beta",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "9230a84f-8c64-41ff-a9a2-37cb6d589e53",
+            "Name": "Read",
+            "Code": "Read",
+            "SystemName": "Old Beta",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "3e2f3176-a172-4d3a-abde-b1902a5bceac",
+            "Name": "Update",
+            "Code": "Update",
+            "SystemName": "Old Beta",
+            "IsSystemPermission": true
+        },
+        {
+            "Id": "eafd6da9-1c39-4c37-aa0a-63c9ca54f843",
+            "Name": "Delete",
+            "Code": "Delete",
+            "SystemName": "Old Beta",
+            "IsSystemPermission": true
+        }
+    ]
+}

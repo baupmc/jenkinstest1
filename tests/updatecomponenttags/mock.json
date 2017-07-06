@@ -1,0 +1,81 @@
+{
+    "TagType": [
+        {
+            "Id": "c2c0d849-ed8a-45fe-8c84-64f4e4b95485",
+            "Name": "COMPONENT",
+            "SystemName": "not_a_real_system"
+        }
+    ],
+    "CoMIT_ComponentType": [
+        {
+            "Id": "87938297-ee68-4e5e-8c38-40fcfe8a09b8",
+            "Name": "not_a_real_component_type"
+        }
+    ],
+    "CoMIT_Category": [
+        {
+            "Id": "4d43fea6-24a3-4191-b40c-e98c035b91e7",
+            "Name": "not_a_real_category"
+        }
+    ],
+    "CoMIT_TagComponent": [
+        {
+            "Id": "81718a96-66b7-4974-beb5-6fe51e0b2ae5",
+            "TagId": "a2344974-8783-4388-a81e-281a539b4e52",
+            "ComponentId": "94f50cd9-ca4f-4c3d-9d61-739aa126a145"
+        },
+        {
+            "Id": "839b335b-0d93-44fd-95ca-5b3f6b948c57",
+            "TagId": "a2344974-8783-4388-a81e-281a539b4e52",
+            "ComponentId": "b24f5457-b71b-48c5-b2e8-de37e1e07740"
+        },
+        {
+            "Id": "1ee8a350-910f-4f71-b3ea-3f852ac1d4a1",
+            "TagId": "a2344974-8783-4388-a81e-281a539b4e52",
+            "ComponentId": "67332558-e784-4ec4-9592-191c88c2d9ae"
+        },
+        {
+            "Id": "a561a1a8-5848-4279-8e87-12bde3ed1596",
+            "TagId": "88bcbecb-aa90-4745-8b9e-e7ad873f22e8",
+            "ComponentId": "67332558-e784-4ec4-9592-191c88c2d9ae"
+        }
+    ],
+    "Tag": [
+        {
+            "Id": "a2344974-8783-4388-a81e-281a539b4e52",
+            "Name": "T1",
+            "TagTypeId": "c2c0d849-ed8a-45fe-8c84-64f4e4b95485"
+        },
+        {
+            "Id": "88bcbecb-aa90-4745-8b9e-e7ad873f22e8",
+            "Name": "T2",
+            "TagTypeId": "c2c0d849-ed8a-45fe-8c84-64f4e4b95485"
+        }
+    ],
+    "CoMIT_Component": [
+        {
+            "Id": "94f50cd9-ca4f-4c3d-9d61-739aa126a145",
+            "Name": "C1",
+            "ComponentTypeId": "87938297-ee68-4e5e-8c38-40fcfe8a09b8",
+            "CategoryId": "4d43fea6-24a3-4191-b40c-e98c035b91e7"
+        },
+        {
+            "Id": "b24f5457-b71b-48c5-b2e8-de37e1e07740",
+            "Name": "C2",
+            "ComponentTypeId": "87938297-ee68-4e5e-8c38-40fcfe8a09b8",
+            "CategoryId": "4d43fea6-24a3-4191-b40c-e98c035b91e7"
+        },
+        {
+            "Id": "67332558-e784-4ec4-9592-191c88c2d9ae",
+            "Name": "C3",
+            "ComponentTypeId": "87938297-ee68-4e5e-8c38-40fcfe8a09b8",
+            "CategoryId": "4d43fea6-24a3-4191-b40c-e98c035b91e7"
+        },
+        {
+            "Id": "de964162-3c9b-4759-9569-780af05189ca",
+            "Name": "C4",
+            "ComponentTypeId": "87938297-ee68-4e5e-8c38-40fcfe8a09b8",
+            "CategoryId": "4d43fea6-24a3-4191-b40c-e98c035b91e7"
+        }
+    ]
+}

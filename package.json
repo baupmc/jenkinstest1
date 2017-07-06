@@ -1,0 +1,42 @@
+{
+  "name": "galaxyapi",
+  "version": "1.0.0",
+  "description": "Service Layer for Galaxy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --timeout 10000 ./tests/*/*.test.js",
+    "createMock": "node ./tests/mock/galaxyDB/db.js create",
+    "destroyMock": "node ./tests/mock/galaxyDB/db.js destroy"
+  },
+  "author": "bonic",
+  "license": "ISC",
+  "dependencies": {
+    "activedirectory": "^0.7.2",
+    "body-parser": "^1.17.1",
+    "btoa": "^1.1.2",
+    "cors": "^2.8.3",
+    "date-holidays": "^0.2.1",
+    "express": "^4.15.2",
+    "hbase-rest-cli": "^1.0.1",
+    "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.4",
+    "lodash-uuid": "0.0.3",
+    "mssql": "^3.3.0",
+    "nodemailer": "^3.1.8",
+    "passport": "^0.3.2",
+    "passport-azure-ad": "^3.0.5",
+    "passport-http-bearer": "^1.0.1",
+    "ping": "^0.2.2",
+    "request": "^2.81.0",
+    "uuid": "^3.0.1",
+    "ws": "^3.0.0"
+  },
+  "devDependencies": {
+    "adal-node": "^0.1.22",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0",
+    "sinon-chai": "^2.9.0"
+  }
+}

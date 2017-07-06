@@ -1,0 +1,252 @@
+{
+    "CoMIT_Category": [
+        {
+            "Id": "5973b4fc-0047-4f42-8e18-e78b0603c03f",
+            "Name": "Alabama"
+        },
+        {
+            "Id": "9dd97304-1035-4527-9276-1bab547619f2",
+            "Name": "Alaska"
+        },
+        {
+            "Id": "5dc9dc44-1d6b-413b-84e9-29ff9b086928",
+            "Name": "American Samoa"
+        },
+        {
+            "Id": "08a0dee0-1542-4255-b0e4-1d5c74deff9e",
+            "Name": "Arizona"
+        },
+        {
+            "Id": "7993176b-cad5-45eb-bc48-e1df193639ea",
+            "Name": "Arkansas"
+        },
+        {
+            "Id": "7131efed-4e24-425a-b167-4b9f65076b85",
+            "Name": "California"
+        },
+        {
+            "Id": "7306ef9a-a84d-4fec-9037-e3508089092b",
+            "Name": "Colorado"
+        },
+        {
+            "Id": "226fb22b-5ea3-4052-94b7-8076c949fe05",
+            "Name": "Connecticut"
+        },
+        {
+            "Id": "f0c4827a-f7c7-498b-b4fa-ac786a5e2f65",
+            "Name": "Delaware"
+        },
+        {
+            "Id": "ce040c70-843c-4a5f-9c95-6364de7d0cb2",
+            "Name": "District Of Columbia"
+        },
+        {
+            "Id": "e6775655-c518-4c71-902d-38c67b8d5bbc",
+            "Name": "Federated States Of Micronesia"
+        },
+        {
+            "Id": "2982c47a-7e58-4119-bbb0-cdc0ff0aefcc",
+            "Name": "Florida"
+        },
+        {
+            "Id": "b20589be-36d1-4f21-9892-46d54bc4dc30",
+            "Name": "Georgia"
+        },
+        {
+            "Id": "f0992334-2dc4-481b-8e18-649ec52779c5",
+            "Name": "Guam"
+        },
+        {
+            "Id": "00e16a76-f6b0-42a0-ae86-703cb4d5f8e7",
+            "Name": "Hawaii"
+        },
+        {
+            "Id": "92f68834-0ec7-4e30-b141-9908d6d5e471",
+            "Name": "Idaho"
+        },
+        {
+            "Id": "1d485e0f-da3b-4561-9901-1c3b553c498a",
+            "Name": "Illinois"
+        },
+        {
+            "Id": "cb87512a-1b81-4fe4-80f3-4ea825b20f63",
+            "Name": "Indiana"
+        },
+        {
+            "Id": "91e99dc0-6fff-4f88-b704-f01226c3a7b3",
+            "Name": "Iowa"
+        },
+        {
+            "Id": "c4057897-5fa1-4485-9530-df55ea09205b",
+            "Name": "Kansas"
+        },
+        {
+            "Id": "485d2f16-2fe7-4c02-a03e-9dd9d366f6e1",
+            "Name": "Kentucky"
+        },
+        {
+            "Id": "39f2e9dd-b62e-42ef-b990-5e602c8bc5d0",
+            "Name": "Louisiana"
+        },
+        {
+            "Id": "1136cf1c-d501-406a-b1bc-1c784472867b",
+            "Name": "Maine"
+        },
+        {
+            "Id": "4551e34a-ed2a-4099-913a-1bc99fbcd093",
+            "Name": "Marshall Islands"
+        },
+        {
+            "Id": "5c558e18-16f0-467a-a3e0-d5ade58cc2bc",
+            "Name": "Maryland"
+        },
+        {
+            "Id": "c8ffb5f5-3e29-4116-b478-29eeb3164e39",
+            "Name": "Massachusetts"
+        },
+        {
+            "Id": "9f163b2f-8fe8-4c61-8ecb-ba5ab52c78b7",
+            "Name": "Michigan"
+        },
+        {
+            "Id": "faf07190-afd3-46d9-a58e-f417b373a6a2",
+            "Name": "Minnesota"
+        },
+        {
+            "Id": "915c06bd-e543-4f07-b939-93d7aa351777",
+            "Name": "Mississippi"
+        },
+        {
+            "Id": "e83e45ba-f03d-4900-afca-aaf2d9fafe53",
+            "Name": "Missouri"
+        },
+        {
+            "Id": "adfbf39c-9b60-488b-ad04-5e89cab2a742",
+            "Name": "Montana"
+        },
+        {
+            "Id": "55380401-6647-48ea-a9ca-98d7dac5a42a",
+            "Name": "Nebraska"
+        },
+        {
+            "Id": "df075bd7-33ef-43f7-b181-7677ae0867e2",
+            "Name": "Nevada"
+        },
+        {
+            "Id": "48adeed3-352d-4b59-840e-787198f6f6b1",
+            "Name": "New Hampshire"
+        },
+        {
+            "Id": "e1e4a0f4-56e9-4df2-8327-584f3989a7d6",
+            "Name": "New Jersey"
+        },
+        {
+            "Id": "a0d24c02-aaea-4a0f-8d6c-dda5a24b132b",
+            "Name": "New Mexico"
+        },
+        {
+            "Id": "de574dc9-0981-40d9-b487-09e7345f1370",
+            "Name": "New York"
+        },
+        {
+            "Id": "f2de8d90-ade9-4375-b574-365deb68d276",
+            "Name": "North Carolina"
+        },
+        {
+            "Id": "dbf0ab3a-93a6-4998-ba4a-c84a99219e2f",
+            "Name": "North Dakota"
+        },
+        {
+            "Id": "e27225f4-c9f1-432c-b789-e7f144c56125",
+            "Name": "Northern Mariana Islands"
+        },
+        {
+            "Id": "5495cbd5-b28e-4bab-8032-212dee37ab58",
+            "Name": "Ohio"
+        },
+        {
+            "Id": "ba7ae35f-b3af-46b9-8954-befa0f4959a8",
+            "Name": "Oklahoma"
+        },
+        {
+            "Id": "4957b3b2-2490-4642-b4e5-cd48f01e9b10",
+            "Name": "Oregon"
+        },
+        {
+            "Id": "7e869ad7-8241-45a6-8c39-0784acebc0e9",
+            "Name": "Palau"
+        },
+        {
+            "Id": "770346ca-c3a7-492a-8d63-70c70ac0244d",
+            "Name": "Pennsylvania"
+        },
+        {
+            "Id": "45073f21-64e2-4064-8ff6-df6693516cd4",
+            "Name": "Puerto Rico"
+        },
+        {
+            "Id": "c98b9fde-731d-4992-a46a-e63040d5b968",
+            "Name": "Rhode Island"
+        },
+        {
+            "Id": "6a05377a-c582-4921-9e6d-b3d6119ca3a4",
+            "Name": "South Carolina"
+        },
+        {
+            "Id": "6e7b0257-a6dc-4ca2-b6ac-0a87289e8e2d",
+            "Name": "South Dakota"
+        },
+        {
+            "Id": "85cfcfd2-ed2c-4c36-9590-04cc54ae1fd7",
+            "Name": "Tennessee"
+        },
+        {
+            "Id": "1773471a-6cf2-48fa-bc71-077e8e0c409a",
+            "Name": "Texas"
+        },
+        {
+            "Id": "1ab0a78f-c34d-46ca-8c8d-cc46d2e48804",
+            "Name": "Utah"
+        },
+        {
+            "Id": "86deeaaf-8ee6-496a-b385-af3df5184a2e",
+            "Name": "Vermont"
+        },
+        {
+            "Id": "a8439e23-0f50-4201-864a-b600e48a18e2",
+            "Name": "Virgin Islands"
+        },
+        {
+            "Id": "b1de3e92-bec9-406d-9a55-bee4e5c8740b",
+            "Name": "Virginia"
+        },
+        {
+            "Id": "5c64a597-5dcc-4e87-bd9e-7caa2c5abf50",
+            "Name": "Washington"
+        },
+        {
+            "Id": "3962368d-3d47-44d5-80e2-278aca1179e6",
+            "Name": "West Virginia"
+        },
+        {
+            "Id": "45982fda-d01f-4973-9665-f8bbdef58298",
+            "Name": "Wisconsin"
+        },
+        {
+            "Id": "e072b69b-c43c-4b74-b345-92fab4bd10a3",
+            "Name": "Wyoming"
+        },
+        {
+            "Id": "54cf464d-8760-4d3d-9332-23bf071568bb",
+            "Name": "[Testing^Escape-Characters]"
+        },
+        {
+            "Id": "7550ed9b-aad6-4ced-a046-948e91f13bd1",
+            "Name": "Testing%Escape_Characters[]"
+        },
+        {
+            "Id": "92667a04-f083-47f9-a281-f26da6bf1ad5",
+            "Name": "[Testing%Escape_Characters]"
+        }
+    ]
+}

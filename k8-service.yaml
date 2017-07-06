@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: "galaxy"
+  labels:
+    app: galaxy
+    environment: development
+    tier: business
+spec:
+ type: NodePort
+ ports:
+   - name: "galaxyapi"
+     port : 31000
+     nodePort: 31000 # available ports range: 30000-32767
+ selector:
+  app: "galaxy"

@@ -1,0 +1,27 @@
+apiVersion: apps/v1beta1 # kubernetes version
+kind: Deployment # type of object to create (Deployment, Service)
+metadata:
+  name: galaxy # maximum length of 253 characters and consist of lower case alphanumeric characters, -, and .
+spec:
+  replicas: 3 # the amount of running instances of your app at all times
+  template: # create pods using pod definition in this template
+    metadata:
+      labels:
+      # key/value pair attached to objects such as pods. Intended to be a relevant identifier for a user,
+      # but not semantic to the core kubernetes system. Selectors can be used to filter by a label: 
+      # $ kubectl get pods -l environment=production
+        app: galaxy
+        environment: development
+        tier: business
+    spec:
+      containers:
+      - name: galaxyapi
+        image: docker-repo-dev.upmc.edu/galaxy/galaxyapi:0.4
+        #image: 192.168.99.100:5000/galaxyapi:0.4
+        imagePullPolicy: Always # this property determines when to pull the docker image
+        ports:
+        - containerPort: 31000 # must be same as port nodejs is listening on
+      #- name: galaxyjavaapi
+      #  image: 192.168.99.100:5000/galaxyjavaapi:0.1
+      #  ports:
+      #  - containerPort: 3001
