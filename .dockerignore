@@ -1,9 +1,1 @@
-node_modules
-build
-tests
-Dockerfile
-Jenkinsfile
-.dockerignore
-*.sh
-*.yaml
-*.git*
+
