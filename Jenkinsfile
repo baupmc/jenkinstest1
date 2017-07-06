@@ -8,7 +8,7 @@ node {
         sh "git rev-parse HEAD > .git/commit-id"
         def commit_id = readFile('.git/commit-id').trim()
         println commit_id
-        def app = docker.build("GalaxyAPI", '.')
+        def app = docker.build("galaxyapi:0.4", '.')
         //docker.build ("helloNode:v1", '.')
         
     }    
