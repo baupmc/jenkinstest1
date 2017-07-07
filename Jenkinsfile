@@ -9,7 +9,7 @@ node {
         def commit_id = readFile('.git/commit-id').trim()
         println commit_id
         def app = docker.build("galaxyapi:0.4-${commit_id}", '.')
-        println app
+        echo "reached 5"
         docker.tag("galaxyapi:0.4-${commit_id}","localhost:5000/galaxyapi:0.4-${commit_id}")
         //docker.build ("helloNode:v1", '.')
         
