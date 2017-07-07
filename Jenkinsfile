@@ -1,6 +1,6 @@
 node {
     stage ("docker-build"){
-        docker.withRegistry("localhost:5000", "") {
+        docker.withRegistry("http://localhost:5000", "") {
             echo "reached3"
             sh ("docker --version")
             echo "reached2"
